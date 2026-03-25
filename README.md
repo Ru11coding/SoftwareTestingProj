@@ -51,7 +51,7 @@ The objective of this project is to demonstrate the core concepts of Software Te
 This project is designed to:
 
 * Practice writing Test Plans and Test Cases
-* Build a strong foundation in **Manual Testing
+* Build a strong foundation in Manual Testing
 * Showcase QA skills to recruiters and hiring managers
 
 
